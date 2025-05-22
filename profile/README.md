@@ -4,7 +4,7 @@ Hier ist eine Übersicht über die Beeline Projekte und die zugehörigen Repos.
 
 ## EDI Cockpit
 
-* [EDI Cockpit](/beeline-GmbH/edicockpitdialog)
+* [EDI Cockpit](https://github.com/beeline-GmbH/edicockpitdialog)
 
 ## Expansion
 
