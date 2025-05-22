@@ -4,8 +4,15 @@ Hier ist eine Übersicht über die Beeline Projekte und die zugehörigen Repos.
 
 ## EDI Cockpit
 
-* [EDI Cockpit](https://github.com/beeline-GmbH/edicockpitdialog)
-  
+* [EDI Cockpit UI5 WebApp](https://github.com/beeline-GmbH/edicockpitdialog)
+* [EDI Cockpit Scheduler](https://github.com/beeline-GmbH/edischeduler)
+* [EDI Cockpit SelfService](https://github.com/beeline-GmbH/ediselfservice)
+* [EDI Cockpit FileProducer](https://github.com/beeline-GmbH/edifileproducer)
+* [EDI Cockpit Partner DB UI5 WebApp](https://github.com/beeline-GmbH/partnerdbgui)
+* [EDI Cockpit FileConfigService](https://github.com/beeline-GmbH/edifileconfiguration)
+* [EDI Cockpit Partner DB oData Service](https://github.com/beeline-GmbH/partnerdbservice)
+* [EDI Cockpit Monitoring](https://github.com/beeline-GmbH/edimonitoring)
+* [EDI Cockpit Assortment Mail-Service](https://github.com/beeline-GmbH/edicockpitassochangemailsrv)  
 
 ## Expansion
 
