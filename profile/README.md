@@ -28,5 +28,5 @@ Hier ist eine Übersicht über die Beeline Projekte und die zugehörigen Repos.
 * [Deco List App](https://github.com/beeline-GmbH/ibsodecolistapp)
 * [Deco Instruction App](https://github.com/beeline-GmbH/ibsodecoinstructionapp)
 * [Concept Change App](https://github.com/beeline-GmbH/ibsoconceptchangeapp)
-* [PIR_Lead_Times App](https://github.com/beeline-GmbH/beplpirleadtimes)
+* [PIR Lead Times App](https://github.com/beeline-GmbH/beplpirleadtimes)
 * [Reuse Library](https://github.com/beeline-GmbH/ibsoreuselib)
