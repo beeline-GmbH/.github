@@ -30,4 +30,5 @@ Hier ist eine Übersicht über die Beeline Projekte und die zugehörigen Repos.
 * [Concept Change App](https://github.com/beeline-GmbH/ibsoconceptchangeapp)
 * [PIR Lead Times App](https://github.com/beeline-GmbH/beplpirleadtimes)
 * [Planned Equipments App](https://github.com/beeline-GmbH/beplequiplanned)
+* [Set-Up Classification](https://github.com/beeline-GmbH/beplsetupclass)
 * [Reuse Library](https://github.com/beeline-GmbH/ibsoreuselib)
